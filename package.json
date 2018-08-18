@@ -1,6 +1,6 @@
 {
   "name": "react-parent",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Get hold of the parent element in React",
   "main": "index.js",
   "repository": "git@github.com:souvikbasu/react-parent.git",
